@@ -13,4 +13,4 @@ The code is provided as is, with no guarantees except that bugs are almost surel
 
 Published research reports using this code should cite the original article:
 
-> F. Camastra, V. Capone, A. Ciaramella, A. Riccio, A. Staiano (2021). Prediction of Environmental Missing Data Time Series by Support Vector Machine Regression and Correlation Dimension Estimation.
+> F. Camastra, V. Capone, A. Ciaramella, A. Riccio, A. Staiano (2022). Prediction of Environmental Missing Data Time Series by Support Vector Machine Regression and Correlation Dimension Estimation. *Environmental Modelling and Software*.
