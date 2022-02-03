@@ -3,6 +3,10 @@
 
 ![ParthenopeLogo](https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig)
 
+<p align="center" width="100%">
+    <img width="100%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
+</p>
+
 This package provides an object-oriented system, implemented in C++, to estimate the attractor dimension and the model order of a time series.
 
 It is based on the Grassberger-Procaccia algorithm (Grassberger and Procaccia, 1983) which estimates the attractor dimension of a dynamic system as a correlation dimension. This algorithm requires to manually detect and compute the slope of the linear portion of the so-called log-log plot; in this package, this task is performed automatically with an ad-hoc implementation of the Hough transform for lines.
