@@ -4,7 +4,7 @@
 ![ParthenopeLogo](https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig)
 
 <p align="center" width="100%">
-    <img width="100%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
+    <img width="30%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
 </p>
 
 This package provides an object-oriented system, implemented in C++, to estimate the attractor dimension and the model order of a time series.
