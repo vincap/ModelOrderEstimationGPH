@@ -3,10 +3,6 @@
 
 ![ParthenopeLogo](https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig)
 
-<p align="center" width="100%">
-    <img width="30%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
-</p>
-
 This package provides an object-oriented system, implemented in C++, to estimate the attractor dimension and the model order of a time series.
 
 It is based on the Grassberger-Procaccia algorithm (Grassberger and Procaccia, 1983) which estimates the attractor dimension of a dynamic system as a correlation dimension. This algorithm requires to manually detect and compute the slope of the linear portion of the so-called log-log plot; in this package, this task is performed automatically with an ad-hoc implementation of the Hough transform for lines.
@@ -18,3 +14,9 @@ The code is provided as is, with no guarantees except that bugs are almost surel
 Published research reports using this code should cite the original article:
 
 > F. Camastra, V. Capone, A. Ciaramella, A. Riccio, A. Staiano (2022). Prediction of Environmental Missing Data Time Series by Support Vector Machine Regression and Correlation Dimension Estimation. *Environmental Modelling and Software*.
+
+This software package was developed by Vincenzo Capone, University of Naples 'Parthenope'
+
+<p align="center" width="100%">
+    <img width="20%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
+</p>
