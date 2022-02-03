@@ -1,7 +1,4 @@
 # Grassberger-Procaccia-Hough code for time series' model order estimation.
-#### Author: Vincenzo Capone, University of Naples 'Parthenope'
-
-![ParthenopeLogo](https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig)
 
 This package provides an object-oriented system, implemented in C++, to estimate the attractor dimension and the model order of a time series.
 
@@ -15,7 +12,7 @@ Published research reports using this code should cite the original article:
 
 > F. Camastra, V. Capone, A. Ciaramella, A. Riccio, A. Staiano (2022). Prediction of Environmental Missing Data Time Series by Support Vector Machine Regression and Correlation Dimension Estimation. *Environmental Modelling and Software*.
 
-This software package was developed by Vincenzo Capone, University of Naples 'Parthenope'
+### This software package was developed by Vincenzo Capone, University of Naples 'Parthenope'.
 
 <p align="center" width="100%">
     <img width="20%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
