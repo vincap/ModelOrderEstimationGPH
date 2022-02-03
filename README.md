@@ -12,8 +12,8 @@ Published research reports using this code should cite the original article:
 
 > F. Camastra, V. Capone, A. Ciaramella, A. Riccio, A. Staiano (2022). Prediction of Environmental Missing Data Time Series by Support Vector Machine Regression and Correlation Dimension Estimation. *Environmental Modelling and Software*.
 
-### This software package was developed by Vincenzo Capone, University of Naples 'Parthenope'.
+#### This software package was developed by Vincenzo Capone, University of Naples 'Parthenope'.
 
 <p align="center" width="100%">
-    <img width="20%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
+    <img width="18%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
 </p>
