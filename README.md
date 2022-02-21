@@ -8,7 +8,7 @@ The `\code` directory contains the C++ source code for all the required classes.
 
 The code is provided as is, with no guarantees except that bugs are almost surely present. This code's use is intended for research purpose only; for any other use, please, ask the author for permission. You can contact the author at the following address: camastra@ieee.org.
 
-Published research reports using this code should cite the original article:
+Published research reports using this code should cite the original article (accessible [here](https://doi.org/10.1016/j.envsoft.2022.105343)):
 
 > F. Camastra, V. Capone, A. Ciaramella, A. Riccio, A. Staiano (2022). Prediction of Environmental Missing Data Time Series by Support Vector Machine Regression and Correlation Dimension Estimation. *Environmental Modelling and Software*.
 
