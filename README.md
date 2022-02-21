@@ -15,5 +15,5 @@ Published research reports using this code should cite the original article (acc
 #### This software package was developed by Vincenzo Capone, University of Naples 'Parthenope'.
 
 <p align="center" width="100%">
-    <img width="20%" src="https://drive.google.com/uc?export=view&id=1vv_DPnFOOpXmdH9o4balxzARzPSXJqig"> 
+    <img width="20%" src="https://user-images.githubusercontent.com/48727326/155006970-2c6bd1d5-330c-428b-b42f-f2cf14298f1e.png"> 
 </p>
